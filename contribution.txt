@@ -1,0 +1,25 @@
+Aditya Raj (s3730562):
+	- Admin Page
+		- Google voice search Integration
+	- Engineer page
+		- Google maps Integration
+
+Oyvind Samuelsen (s3801950):
+	- Manager statistics charts with google cloud studio, pyplot
+	- Front-end + back-end + api:
+		- Manager
+		    - view charts
+		- Engineer
+		    - list cars with issues
+		- Admin
+		    - list bookings, cars, users
+		    - add new bookings, cars (with issue), users
+	- Authorization based on user type
+
+Samit Sharma (s3752136):
+	- Engineer Authentication
+		- QR code
+		- Bluetooth
+	- Sockets Integration
+
+Sagar Chandrakant Pardikar (s3715199):
