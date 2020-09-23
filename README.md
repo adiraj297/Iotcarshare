@@ -1,6 +1,6 @@
 # Programming of Internet of Things (COSC2755)
 
-<p>&nbsp;</p>
+This project was developed with the Raspberry PI as the main server which could be accessed by external sources to book cars for renting. Where there were three main users: Customers, Managers and Engineers. The Managers can allocate tasks for the Engineers which could be to fix issues with the vehicles, where as the Engineers access the cars using the AgentPis on each of the cars and likewise the customers can access also use the AgentPI on the cars to access the cars for the bookings they have made. Managers can also make changes to customer bookings as well.
 
 ## Documentation
 See docs/html/index.html
