@@ -78,19 +78,5 @@ Bluetooth [AP] - Change the device name to username ex: 'engineer'
 username - manager
 password - manager
 ```
-<p>&nbsp;</p>
 
-## Repository Usage
-#### Branches
-![Branches](readme-images/branches.png)
-#### Pull Requests
-![Pull Requests](readme-images/pull_requests.png)
-#### Commit contribution
-![Commits](readme-images/commit_contribution.png)
-
-<p>&nbsp;</p>
-
-## Trello Board Usage
-![Trello Board](readme-images/trello.png)
-<p>&nbsp;</p>
 
