@@ -1,9 +1,5 @@
-# Assignment 2 & 3 for Programming of Internet of Things (COSC2755)
-### Members:
-####   Samit Sharma (s3752136)
-####   Aditya Raj (s3730562)
-####   Oyvind Samuelsen (s3801950)
-####   Sagar Chandrakant Pardikar (s3715199)
+# Programming of Internet of Things (COSC2755)
+
 <p>&nbsp;</p>
 
 ## Documentation
@@ -97,40 +93,4 @@ password - manager
 ## Trello Board Usage
 ![Trello Board](readme-images/trello.png)
 <p>&nbsp;</p>
-
-## Contribution :
-
-    Aditya Raj (s3730562):
-
-    - Designed the website (booking, cancel booking etc)
-    - Google calendar integration
-    - Admin Page
-		- Google voice search Integration
-	- Engineer page
-		- Google maps Integration
-
-    Oyvind Samuelsen (s3801950):
-
-    - Setting up Restful/Flask API environment
-    - Implement Appropriate restful function calls
-    - Tests
-    - Statistical data representation with google cloud studio
-	- Front-end + back-end:
-		- Manager
-		- Engineer
-		- Admin
-
-    Samit Sharma (s3752136):
-
-    - User Authentication
-    - Facial Recognition
-    - Socket
-    - Engineer Authentication
-		- QR code
-		- Bluetooth
-	- Sockets Integration
-
-    Sagar Chandrakant Pardikar (s3715199):
-
-    - (MP) Authentication / Authorization
 
