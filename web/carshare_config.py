@@ -11,7 +11,7 @@ class DevelopmentConfig(Config):
 
 
 class ProductionConfig(Config):
-    HOST = "34.71.196.78"
+    HOST = "ipaddress"
     USER = "root"
     PASSWORD = "root1234"
     DATABASE = "hireCar"
